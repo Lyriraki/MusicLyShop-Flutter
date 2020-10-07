@@ -9,10 +9,10 @@ For demo app you can check in my instagram here [Lyriraki](https://www.instagram
 
 This is sample for this app
 
-![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/screenshot/s1.png?raw=true)
-![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/screenshot/s2.png?raw=true)
-![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/screenshot/s3.png?raw=true)
-![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/screenshot/s4.png?raw=true)
+![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/lib/screenshot/s1.png?raw=true)
+![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/lib/screenshot/s2.png?raw=true)
+![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/lib/screenshot/s3.png?raw=true)
+![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/lib/screenshot/s4.png?raw=true)
 
 
 
