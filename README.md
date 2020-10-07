@@ -1,16 +1,18 @@
-# musiclyshop
+# MusicLy Shop
 
-MusicLy Shop
+This app make with flutter
+music from : [Freesound](https://freesound.org/people/4barrelcarb/sounds/362832/)
 
-## Getting Started
+Inspired from [Online Shop App - Flutter UI - Speed Code](https://www.youtube.com/watch?v=XBKzpTz65Io&t=9s)
 
-This project is a starting point for a Flutter application.
+For demo app you can check in my instagram here [Lyriraki](https://www.instagram.com/lyriraki/)
 
-A few resources to get you started if this is your first Flutter project:
+This is sample for this app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/screenshot/s1.png?raw=true)
+![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/screenshot/s2.png?raw=true)
+![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/screenshot/s3.png?raw=true)
+![Sample](https://github.com/Lyriraki/MusicLy-Shop/blob/master/screenshot/s4.png?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
